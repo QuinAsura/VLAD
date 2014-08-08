@@ -10,7 +10,9 @@ VLAD
 A cross platform simplistic GUI to download anime.
 ## SCREENSHOT
 ![VLAD Main window](http://i.imgur.com/2pRyyLB.png?1)
+
 ![VLAD Load Episode window](http://i.imgur.com/eeJeeRU.png?1)
+
 ![VLAD Download window](http://i.imgur.com/RmF2e8g.png?1)
 
 ## REQUIREMENTS

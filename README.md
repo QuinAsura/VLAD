@@ -9,9 +9,9 @@ VLAD
 ## DESCRIPTION
 A cross platform simplistic GUI to download anime.
 ## SCREENSHOT
-![VLAD Main window]()
-![VLAD Load Episode window]()
-![VLAD Options window]()
+![VLAD Main window](http://i.imgur.com/2pRyyLB.png?1)
+![VLAD Load Episode window](http://i.imgur.com/eeJeeRU.png?1)
+![VLAD Download window](http://i.imgur.com/RmF2e8g.png?1)
 
 ## REQUIREMENTS
 [Python (version 2.7+)](http://www.python.org)
@@ -24,9 +24,6 @@ A cross platform simplistic GUI to download anime.
 
 ## PROJECT HOMEPAGE
 
-**Youtube-dlG**: http://mrs0m30n3.github.io/youtube-dl-gui/
-
-**Youtube-dl**: http://rg3.github.io/youtube-dl/
 
 ## AUTHOR
 Vigneshwar Nellaiyappan

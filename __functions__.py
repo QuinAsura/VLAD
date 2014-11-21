@@ -133,7 +133,7 @@ def producer(sema, list, first, container, animename):
             thread = __mythread__.MyThread(list[uniq][0], list[uniq][1], list[uniq][2],animename, container, first)
             thread.daemon=True
             thread.start()
-            print thread,'started sucker'
+            print thread,'started'
             container.q.put(thread, True)
             break
       break

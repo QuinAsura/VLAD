@@ -9,11 +9,11 @@ You get to change your own icons just replace them in the icons folder.
 ![queue](https://cloud.githubusercontent.com/assets/8387183/5137639/44f5df6c-7163-11e4-9267-ebed3ffc9c49.png)
 
 rename it as the following and place them in your icons folder
-about.png
-directory.png
-folders-downloads-icon.png
-folders-internet-icon.png
-play.png
-pause.png
-proxy1.png
-queue.png
+1.about.png
+2.directory.png
+3.folders-downloads-icon.png
+4.folders-internet-icon.png
+5.play.png
+6.pause.png
+7.proxy1.png
+8.queue.png

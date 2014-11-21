@@ -59,7 +59,8 @@ class down():
                     if first.progresstable.GetItem(ind, 3).GetText() == "Paused":
                        break   
                     else:
-                       print 'once fucker'
+                       print 'deviation'
+                       pass
                        #wx.CallAfter(Publisher.sendMessage,'update status',[ind,4])
                        #myfile.close()
                        #self.start_download(ind,down_link,path,animename,resume,container,proxy,first,file_present,down_res,total_size,url,path1)
@@ -88,7 +89,8 @@ class down():
              if first.progresstable.GetItem(ind, 3).GetText() == "Paused":
                 break   
              else:
-                print 'once fucker'
+                print 'deviation'
+                pass
                 wx.CallAfter(Publisher.sendMessage,'update status',[ind,4])
                 myfile.close()
                 self.start_download(ind,down_link,path,animename,resume,container,proxy,first,file_present,down_res,total_size,url,path1)
